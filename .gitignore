@@ -96,6 +96,5 @@ typings/
 # EXTRAS
 playground/
 .env
-app-promise.js
 
 # End of https://www.gitignore.io/api/linux
